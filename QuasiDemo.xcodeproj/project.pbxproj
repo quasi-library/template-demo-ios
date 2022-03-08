@@ -235,8 +235,10 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
+				CLASSPREFIX = QS;
 				LastSwiftUpdateCheck = 1320;
 				LastUpgradeCheck = 1320;
+				ORGANIZATIONNAME = "Quasi Team";
 				TargetAttributes = {
 					59FC900827D720B20088C49A = {
 						CreatedOnToolsVersion = 13.2.1;
