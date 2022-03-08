@@ -1,0 +1,16 @@
+PODS:
+  - QSKitLibrary (0.1.0)
+
+DEPENDENCIES:
+  - QSKitLibrary
+
+SPEC REPOS:
+  trunk:
+    - QSKitLibrary
+
+SPEC CHECKSUMS:
+  QSKitLibrary: 828755505aa4df46541653ea692aa95aacb9e1b3
+
+PODFILE CHECKSUM: fbe538f18f6b8c315a28aa4c592032ab7c8d1886
+
+COCOAPODS: 1.11.2
